@@ -9,13 +9,7 @@
 2. [Key Features](#key-features)  
 3. [Methodology](#methodology)  
 4. [Results](#results)  
-5. [File Structure](#file-structure)  
-6. [Getting Started](#getting-started)  
-7. [Usage](#usage)  
-8. [Limitations](#limitations)  
-9. [Future Work](#future-work)  
-10. [License](#license)  
-11. [Contact](#contact)  
+5. [Contact](#contact)  
 
 ---
 
@@ -76,22 +70,7 @@ Day 32 → 231.78
 …
 Day 40 → 298.12
 
-## 📂 File Structure <a name="file-structure"></a>
-
-🔮 Future Work <a name="future-work"></a>
-Replace synthetic prices with real market data via CSV import or API integration.
-
-Add exogenous variables such as inflation rate, trading volume, or macroeconomic indicators.
-
-Compare this method with advanced time‑series models like LSTM, Prophet, and ARIMA.
-
-Implement cross‑validation and regularization to improve generalization.
-
-📜 License <a name="license"></a>
-This project is licensed under the MIT License.
-See the LICENSE file for more information.
 
 📬 Contact <a name="contact"></a>
 Pratham Sandesara
-✉️ pratham.sandesara@example.com
-🔗 GitHub: https://github.com/YourUsername/stock-price-regression
+pratham.sandesara@gmail.com
